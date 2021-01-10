@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hello there <img src='https://tenor.com/bcCmL.gif' height='85' width='85'>
 
-<!--
-**KernelDN/KernelDN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' src='' height='400' width='400'>
 
-Here are some ideas to get you started:
+😄 My name's Diego Natalo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⛱ I live in Brasil
+
+📚 I'm a student of Systems Analysis and Development
+
+💖 Love front-end development and UI/UX
+
+🤖 Currently learning NodeJs and making Discord bot for fun
