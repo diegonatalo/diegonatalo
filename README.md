@@ -13,3 +13,5 @@
 💖 Love front-end development and UI/UX
 
 🤖 Currently learning NodeJs and making Discord bot for fun
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KernelDN&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
