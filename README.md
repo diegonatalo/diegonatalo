@@ -1,5 +1,5 @@
 # Hello there
-![](https://img.shields.io/github/followers/KernelDN?label=Follow%20Me&style=social)
+![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) ![](https://img.shields.io/github/followers/KernelDN?label=Follow%20Me&style=social)
 
 
 <img align='right' src='https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif' width='200' heigth='200'/>
