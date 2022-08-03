@@ -8,9 +8,9 @@
 
 📚 I'm a student of Systems Analysis and Development
 
-💖 Love front-end development and UI/UX
+💖 Love Front-End Development
 
-🤖 Currently learning Typescript and making Discord bot for fun
+🤖 Currently learning React and Typescript
 
 ---
 ### ⚡ Languages and Frameworks:
