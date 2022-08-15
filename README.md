@@ -26,7 +26,7 @@
 ![Vite](https://img.shields.io/badge/vite-0D1117?style=for-the-badge&logo=vite&logoColor=mediumaquamarine)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kerneldn&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-kerneldn.vercel.app//api/top-langs/?username=kerneldn&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
