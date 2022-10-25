@@ -1,16 +1,15 @@
-# 👋 Hello there! 
+<h1 align='center'>👋 Hello there! I'm Diego Natalo</h1>
+<h3 align='center'>I'm a front-end developer and lover of the <strong>React</strong> ecosystem</h3>
 <img align='right' src='https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png' width='350' heigth='350'/>
 
 ---
 
 ### 📌 About me
-- My name is Diego Natalo
-- I'm a front-end developer
 - UI/UX enthusiast
 - Technology lover
 - Computer technician for the internet by ETEC de Itanhaém
 - Technologist in systems analysis and development at IFSP
-- Currently deepening my knowledge of React and its ecosystem with [Rocketseat](https://www.rocketseat.com.br/)
+- Currently deepening my knowledge of React and its ecosystem with <strong>[Rocketseat](https://www.rocketseat.com.br/)</strong>
 
 ---
 ### ⚡ Skills:
