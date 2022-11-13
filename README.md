@@ -14,16 +14,7 @@
 ---
 ### ⚡ Skills:
 
-![HTML](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=orange)
-![CSS](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=dodgerblue)
-![Javascript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=JavaScript&logoColor=gold)
-![Typescript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=dodgerblue)
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=cyan)
-![Next JS](https://img.shields.io/badge/Next-0D1117?style=for-the-badge&logo=next.js&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-0D1117?style=for-the-badge&logo=sass&logoColor=palevioletred)
-![GIT](https://img.shields.io/badge/GIT-0D1117?style=for-the-badge&logo=git&logoColor=red)
-![Vite](https://img.shields.io/badge/vite-0D1117?style=for-the-badge&logo=vite&logoColor=mediumaquamarine)
-
+<img src="assets/html.svg" width=30/> <img src="assets/css.svg" width=30/> <img src="assets/javascript.svg" width=30/> <img src="assets/typescript.svg" width=30/> <img src="assets/react.svg" width=30/> <img src="assets/next.svg" width=30/> <img src="assets/sass.svg" width=30/> <img src="assets/git.svg" width=30/> <img src="assets/vite.svg" width=30/>
 
 [![Top Langs](https://github-readme-stats-kerneldn.vercel.app//api/top-langs/?username=kerneldn&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
