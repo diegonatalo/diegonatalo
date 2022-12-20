@@ -1,19 +1,4 @@
-<style>
-  #teste {
-    background: linear-gradient(270deg, red, yellow, lime, cyan, magenta);
-    background-size: 400% 400%;
-    -webkit-animation: AnimationName 5s ease infinite;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-  }
-  @-webkit-keyframes AnimationName {
-    0%{background-position:0% 50%}
-    50%{background-position:100% 50%}
-    100%{background-position:0% 50%}
-  }
-</style>
-
-<h1 id="teste" align='center'>👋 Hello there! I'm Diego Natalo</h1>
+<h1 align='center'>👋 Hello there! I'm Diego Natalo</h1>
 <h3 align='center'>I'm a front-end developer and lover of the <strong>React</strong> ecosystem</h3>
 <img align='right' src='https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png' width='350' heigth='350'/>
 
