@@ -24,7 +24,7 @@
 ![GIT](https://img.shields.io/badge/GIT-0D1117?style=for-the-badge&logo=git&logoColor=red)
 ![Vite](https://img.shields.io/badge/vite-0D1117?style=for-the-badge&logo=vite&logoColor=mediumaquamarine)
 
-[![Top Langs](https://github-readme-stats-kerneldn.vercel.app//api/top-langs/?username=kerneldn&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-kerneldn.vercel.app//api/top-langs/?username=diegonatalo&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
