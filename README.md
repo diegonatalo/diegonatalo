@@ -31,4 +31,4 @@
 ### 📞 Contact:
 [![Linkedin: Linkedin](https://img.shields.io/badge/-Diego%20Natalo-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-natalo/)](https://www.linkedin.com/in/diego-natalo/)
 ![](https://img.shields.io/badge/-diegonatalo@gmail.com-EA4335?logo=gmail&logoColor=white&style=flat)
-![](https://img.shields.io/github/followers/KernelDN?label=Follow%20Me&style=social)
+![](https://img.shields.io/github/followers/diegonatalo?label=Follow%20Me&style=social)
