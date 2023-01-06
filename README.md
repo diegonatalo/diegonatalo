@@ -1,19 +1,17 @@
 <h1 align='center'>👋 Hello there! I'm Diego Natalo</h1>
-<h3 align='center'>I'm a front-end developer and lover of the <strong>React</strong> ecosystem</h3>
+<h3 align='center'>Front-end developer and lover of the <strong>React</strong> ecosystem</h3>
 <img align='right' src='https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png' width='350' heigth='350'/>
 
 ---
 
 ### 📌 About me
-- UI/UX enthusiast
-- Technology lover
-- Computer technician for the internet by ETEC de Itanhaém
-- Technologist in systems analysis and development at IFSP
-- Currently deepening my knowledge of React and its ecosystem with <strong>[Rocketseat](https://www.rocketseat.com.br/)</strong>
+- Internet IT Technician.
+- Systems Analysis and Development Technologist.
+- UX design enthusiast.
+- Currently studying to improve my React skills.
 
 ---
 ### ⚡ Skills:
-
 ![HTML](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=orange)
 ![CSS](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=dodgerblue)
 ![Javascript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=JavaScript&logoColor=gold)
@@ -23,6 +21,7 @@
 ![SASS](https://img.shields.io/badge/Sass-0D1117?style=for-the-badge&logo=sass&logoColor=palevioletred)
 ![GIT](https://img.shields.io/badge/GIT-0D1117?style=for-the-badge&logo=git&logoColor=red)
 ![Vite](https://img.shields.io/badge/vite-0D1117?style=for-the-badge&logo=vite&logoColor=mediumaquamarine)
+
 
 [![Top Langs](https://github-readme-stats-kerneldn.vercel.app//api/top-langs/?username=diegonatalo&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](https://streak-stats.demolab.com?user=diegonatalo&theme=dark&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
