@@ -1,7 +1,8 @@
 <div align="center">
 
-  [![Linkedin: Linkedin](https://img.shields.io/badge/-Diego%20Natalo-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-natalo/)](https://www.linkedin.com/in/diego-natalo/)
+  [![Linkedin: Linkedin](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/diego-natalo/)
   ![](https://img.shields.io/badge/-diegonatalo@gmail.com-EA4335?logo=gmail&logoColor=white&style=flat)
+  [![](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/diego_natalo)
   ![](https://img.shields.io/github/followers/diegonatalo?label=Follow%20Me&style=social)
 </div>
 
