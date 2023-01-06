@@ -32,6 +32,7 @@
   <img with="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" />
   <img with="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="Storybook" />
   <img with="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" />
+  <img with="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" />
 </div>
 
 <br>
