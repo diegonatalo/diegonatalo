@@ -6,7 +6,10 @@
   ![](https://img.shields.io/github/followers/diegonatalo?label=Follow%20Me&style=social)
 </div>
 
-<h1 align='center'>👋 Hello there! I'm Diego Natalo</h1>
+<h1 align='center'>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
+  Hello there! I'm Diego Natalo
+</h1>
 <h3 align='center'>Front-end developer and lover of the <strong>React</strong> ecosystem</h3>
 
 ---
