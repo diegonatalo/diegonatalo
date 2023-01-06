@@ -1,8 +1,15 @@
+<div align="center">
+
+  [![Linkedin: Linkedin](https://img.shields.io/badge/-Diego%20Natalo-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-natalo/)](https://www.linkedin.com/in/diego-natalo/)
+  ![](https://img.shields.io/badge/-diegonatalo@gmail.com-EA4335?logo=gmail&logoColor=white&style=flat)
+  ![](https://img.shields.io/github/followers/diegonatalo?label=Follow%20Me&style=social)
+</div>
+
 <h1 align='center'>👋 Hello there! I'm Diego Natalo</h1>
 <h3 align='center'>Front-end developer and lover of the <strong>React</strong> ecosystem</h3>
-<img align='right' src='https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png' width='350' heigth='350'/>
 
 ---
+<img align='right' src='https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png' width='350' heigth='350'/>
 
 ### 📌 About me
 - Internet IT Technician.
@@ -10,24 +17,24 @@
 - UX design enthusiast.
 - Currently studying to improve my React skills.
 
----
-### ⚡ Skills:
-![HTML](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=orange)
-![CSS](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=dodgerblue)
-![Javascript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=JavaScript&logoColor=gold)
-![Typescript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=dodgerblue)
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=cyan)
-![Next JS](https://img.shields.io/badge/Next-0D1117?style=for-the-badge&logo=next.js&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-0D1117?style=for-the-badge&logo=sass&logoColor=palevioletred)
-![GIT](https://img.shields.io/badge/GIT-0D1117?style=for-the-badge&logo=git&logoColor=red)
-![Vite](https://img.shields.io/badge/vite-0D1117?style=for-the-badge&logo=vite&logoColor=mediumaquamarine)
+### ⚡ Skills
+<div padding="20px">
+  <img with="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" />
+  <img with="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" />
+  <img with="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" />
+  <img with="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" />
+  <img with="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" />
+  <img with="30" height="30" src="assets/next.svg" title="Next" />
+  <img with="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" />
+  <img with="30" height="30" src="assets/styledcomponents.svg" title="styled-components" />
+  <img with="30" height="30" src="assets/chakra-ui.svg" title="Chakra UI" />
+  <img with="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" />
+  <img with="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="Storybook" />
+  <img with="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" />
+</div>
 
+<br>
+
+---
 
 [![Top Langs](https://github-readme-stats-kerneldn.vercel.app//api/top-langs/?username=diegonatalo&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](https://streak-stats.demolab.com?user=diegonatalo&theme=dark&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
-
----
-
-### 📞 Contact:
-[![Linkedin: Linkedin](https://img.shields.io/badge/-Diego%20Natalo-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-natalo/)](https://www.linkedin.com/in/diego-natalo/)
-![](https://img.shields.io/badge/-diegonatalo@gmail.com-EA4335?logo=gmail&logoColor=white&style=flat)
-![](https://img.shields.io/github/followers/diegonatalo?label=Follow%20Me&style=social)
