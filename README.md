@@ -42,4 +42,4 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats-kerneldn.vercel.app//api/top-langs/?username=diegonatalo&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](https://streak-stats.demolab.com?user=diegonatalo&theme=dark&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats-kerneldn.vercel.app//api/top-langs/?username=diegonatalo&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](https://streak-stats.demolab.com?user=diegonatalo&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
