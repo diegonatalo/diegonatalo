@@ -31,10 +31,10 @@
   <img with="30" height="30" src="assets/next.svg" title="Next" />
   <img with="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" />
   <img with="30" height="30" src="assets/styledcomponents.svg" title="styled-components" />
-  <img with="30" height="30" src="assets/chakra-ui.svg" title="Chakra UI" />
   <img with="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" />
-  <img with="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="Storybook" />
-  <img with="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" />
+  <img with="30" height="30" src="assets/vite.png" title="Vite" />
+  <img with="30" height="30" src="assets/vitest.svg" title="Vitest" />
+  <img with="30" height="30" src="assets/rtl.png" title="React Testing Library" />
   <img with="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" />
 </div>
 
