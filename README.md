@@ -23,12 +23,10 @@
 
 ### ⚡ Skills
 <div padding="20px">
-  <img with="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" />
-  <img with="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" />
-  <img with="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" />
-  <img with="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" />
   <img with="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" />
   <img with="30" height="30" src="assets/next.svg" title="Next" />
+  <img with="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" />
+  <img with="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" />
   <img with="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" />
   <img with="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" />
   <img with="30" height="30" src="assets/rtl.png" title="React Testing Library" />
