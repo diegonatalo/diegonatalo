@@ -30,9 +30,9 @@
   <img with="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" />
   <img with="30" height="30" src="assets/next.svg" title="Next" />
   <img with="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" />
-  <img with="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-original.svg" title="Jest" />
+  <img with="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" />
   <img with="30" height="30" src="assets/rtl.png" title="React Testing Library" />
-  <img with="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Git" />
+  <img with="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" />
 </div>
 
 <br>
