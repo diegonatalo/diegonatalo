@@ -10,7 +10,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
   Hello there! I'm Diego Natalo
 </h1>
-<h3 align='center'>Front-end developer and lover of the <strong>React</strong> ecosystem</h3>
+<h3 align='center'>Web developer and lover of the <strong>React</strong> ecosystem</h3>
 
 ---
 <img align='right' src='https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png' width='350' heigth='350'/>
@@ -23,11 +23,11 @@
 
 ### ⚡ Skills
 <div padding="20px">
-  <img with="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" />
-  <img with="30" height="30" src="assets/next.svg" title="Next" />
+  <img with="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React.js" />
+  <img with="30" height="30" src="assets/next.svg" title="Next.js" />
   <img with="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" />
   <img with="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" />
-  <img with="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" />
+  <img with="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS" />
   <img with="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" />
   <img with="30" height="30" src="assets/rtl.png" title="React Testing Library" />
   <img with="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" />
