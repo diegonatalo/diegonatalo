@@ -1,8 +1,6 @@
 <div align="center">
 
   [![Linkedin: Linkedin](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/diego-natalo/)
-  ![](https://img.shields.io/badge/-diegonatalo@gmail.com-EA4335?logo=gmail&logoColor=white&style=flat)
-  [![](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/diego_natalo)
   ![](https://img.shields.io/github/followers/diegonatalo?label=Follow%20Me&style=social)
 </div>
 
@@ -10,27 +8,28 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
   Hello there! I'm Diego Natalo
 </h1>
-<h3 align='center'>Web developer and lover of the <strong>React</strong> ecosystem</h3>
+<h3 align='center'>Front-end developer and lover of the <strong>React</strong> ecosystem</h3>
 
 ---
 <img align='right' src='https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png' width='350' heigth='350'/>
 
 ### 📌 About me
-- Internet IT Technician.
-- Systems Analysis and Development Technologist.
+- Computer technician for internet.
+- Systems analysis and development technologist.
 - UX design enthusiast.
-- Currently studying to improve my React skills.
+- Always studying to improve my development skills.
 
 ### ⚡ Skills
 <div padding="20px">
-  <img with="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React.js" />
-  <img with="30" height="30" src="assets/next.svg" title="Next.js" />
-  <img with="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" />
-  <img with="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" />
-  <img with="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS" />
-  <img with="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" />
-  <img with="30" height="30" src="assets/rtl.png" title="React Testing Library" />
-  <img with="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30" title="React.js" />
+  <img src="assets/next.svg" width="30" height="30" title="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" title="Javascript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" height="30" title="Typescript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="30" height="30" title="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" height="30" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30" title="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30" title="CSS" />
 </div>
 
 <br>
