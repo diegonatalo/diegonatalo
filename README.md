@@ -18,6 +18,7 @@
 - Systems analysis and development technologist.
 - UX design enthusiast.
 - Always studying to improve my development skills.
+- Help Desk at WSNET.
 
 ### ⚡ Skills
 <div padding="20px">
