@@ -11,9 +11,8 @@
 
 ### 📌 Sobre
 - Meu objetivo atual é atuar profissionalmente como desenvolvedor, fazendo a transição do suporte técnico para dev.
-- Fora do código, gosto de entender como as coisas funcionam, inclusive a mim mesmo.
-- No tempo livre, gosto de treinar, ler e questionar algumas certezas.
-- Nada é perfeito, mas pizza chega bem perto
+- No tempo livre, gosto de treinar, ler e entender como as coisas funcionam, inclusive a mim mesmo.
+- Nada é perfeito, mas pizza chega bem perto.
 
 ### 💻 Tecnologias
 
