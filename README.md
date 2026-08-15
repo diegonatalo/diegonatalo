@@ -50,5 +50,5 @@
 
 ### 📫 Contato
 
-- LinkedIn: https://www.linkedin.com/in/diego-natalo/ 
+- LinkedIn: https://www.linkedin.com/in/diegonatalo/ 
 - Email: diegonatalo@gmail.com
