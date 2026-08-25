@@ -33,11 +33,19 @@
 
 <br />
 
-### 🚀 Projeto em destaque
+### 🚀 Projetos em destaque
 
 - #### Triagem Web
-  - Aplicação que desenvolvi para ajudar o setor de suporte técnico em suas demadas do dia a dia operacional.
-  - 🔗 https://triagem-web.vercel.app
+  - Aplicação web interna desenvolvida para otimizar e padronizar o atendimento técnico e a triagem de clientes de Telecom. A plataforma centraliza scripts de atendimento e a coleta estruturada de informações técnicas, auxiliando a equipe na identificação de falhas, certificação de CTOs e tomada de decisão durante os atendimentos.
+  - 🔗 [Demonstração](https://triagem-web.vercel.app)
+
+- #### FIInance
+  - FIInance é uma aplicação web para gestão de FIIs, permitindo cadastrar ativos e visualizar a alocação da carteira por meio de gráficos interativos. O projeto inclui cálculos de preço médio e indicadores práticos para apoiar decisões de investimento baseadas em dados.
+  - 🔗 [Demonstração](https://fiinance1.vercel.app)
+
+- #### FitLog
+  - Aplicativo de registro de treinos onde o usuário monta suas rotinas, acompanha séries, cargas e repetições em tempo real e salva tudo em um histórico organizado. A proposta é facilitar o acompanhamento da evolução física por meio de dados claros e progressão contínua.
+  - 🔗 [Demonstração](https://dn-fitlog.vercel.app)
 
 <br />
 
@@ -52,3 +60,4 @@
 
 - LinkedIn: https://www.linkedin.com/in/diegonatalo/ 
 - Email: diegonatalo@gmail.com
+- Portfólio: https://diegonatalo.dev
