@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="470" viewBox="0 0 1200 470" role="img" aria-label="Diego Natalo, Desenvolvedor Front-end"><title>Diego Natalo, Desenvolvedor Front-end</title><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#38e8a8"/><stop offset="1" stop-color="#5aa9ff"/></linearGradient>
+    <radialGradient id="gl1"><stop offset="0" stop-color="#38e8a8" stop-opacity=".26"/><stop offset="1" stop-color="#38e8a8" stop-opacity="0"/></radialGradient>
+    <radialGradient id="gl2"><stop offset="0" stop-color="#5aa9ff" stop-opacity=".26"/><stop offset="1" stop-color="#5aa9ff" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" fill="none" stroke="#e7f1ee" stroke-opacity=".045"/></pattern>
+    <clipPath id="clip"><rect width="1200" height="470" rx="26"/></clipPath>
+    <linearGradient id="fadeY" x1="0" y1="0" x2="0" y2="1"><stop offset=".55" stop-color="#060b0e" stop-opacity="0"/><stop offset="1" stop-color="#060b0e" stop-opacity=".9"/></linearGradient>
+    <style>
+.sans{font-family:'Bricolage Grotesque','Geist','Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif} .mono{font-family:'Geist Mono','JetBrains Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace}
+.fg{fill:#e7f1ee} .mu{fill:#9db1aa} .su{fill:#7b8f88} .a1{fill:#38e8a8} .a2{fill:#5aa9ff}
+.b{font-weight:700} .xb{font-weight:800}
+
+    @keyframes fade{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+    @keyframes pulse{0%,100%{opacity:1}50%{opacity:.25}}
+    @keyframes ring{0%{r:5;opacity:.6}100%{r:13;opacity:0}}
+    .ln{animation:fade .7s ease both}
+    .dot{animation:pulse 1.8s ease-in-out infinite}
+    .ring{animation:ring 1.8s ease-out infinite}
+    </style></defs>
+    <g clip-path="url(#clip)">
+      <rect width="1200" height="470" fill="#060b0e"/>
+      <rect width="1200" height="470" fill="url(#grid)"/>
+      <g><circle cx="170" cy="40" r="330" fill="url(#gl1)"/><animateTransform attributeName="transform" type="translate" values="0 0;40 20;0 0" dur="14s" repeatCount="indefinite"/></g>
+      <g><circle cx="1040" cy="420" r="380" fill="url(#gl2)"/><animateTransform attributeName="transform" type="translate" values="0 0;-40 -20;0 0" dur="16s" repeatCount="indefinite"/></g>
+      <rect width="1200" height="470" fill="url(#fadeY)"/>
+    </g>
+    <rect x=".5" y=".5" width="1199" height="469" rx="26" fill="none" stroke="#26353b"/>
+
+    <rect x="72" y="62" width="278" height="36" rx="18" fill="#38e8a8" fill-opacity=".1" stroke="#38e8a8" stroke-opacity=".4"/>
+    <circle cx="94" cy="80" r="5" fill="#38e8a8" class="dot"/><circle cx="94" cy="80" r="5" fill="none" stroke="#38e8a8" class="ring"/>
+    <text x="112" y="85" class="mono a1" font-size="13" letter-spacing="1.8">ABERTO A OPORTUNIDADES</text>
+
+    <text x="70" y="196" class="sans xb" font-size="98" letter-spacing="-3"><tspan class="fg">Diego </tspan><tspan fill="url(#g)">Natalo</tspan></text>
+    <text x="72" y="250" class="sans b fg" font-size="34">Desenvolvedor Front-end</text>
+    <text x="72" y="296" class="sans mu" font-size="20">Construo interfaces modernas, acessíveis e performáticas</text>
+    <text x="72" y="324" class="sans mu" font-size="20">com foco em experiência do usuário.</text>
+
+    <g><rect x="72" y="362" width="150" height="68" rx="14" fill="#0b1317" stroke="#26353b"/>
+    <text x="90" y="396" class="sans xb fg" font-size="26">8</text>
+    <text x="90" y="416" class="mono su" font-size="11" letter-spacing="1.6">PROJETOS</text></g><g><rect x="238" y="362" width="150" height="68" rx="14" fill="#0b1317" stroke="#26353b"/>
+    <text x="256" y="396" class="sans xb fg" font-size="26">20</text>
+    <text x="256" y="416" class="mono su" font-size="11" letter-spacing="1.6">TECNOLOGIAS</text></g><g><rect x="404" y="362" width="150" height="68" rx="14" fill="#0b1317" stroke="#26353b"/>
+    <text x="422" y="396" class="sans xb fg" font-size="26">6</text>
+    <text x="422" y="416" class="mono su" font-size="11" letter-spacing="1.6">CERTIFICADOS</text></g>
+
+    <rect x="770" y="58" width="366" height="318" rx="20" fill="#0b1317" stroke="#26353b"/>
+    <circle cx="796" cy="86" r="5.5" fill="#ff8a7a"/><circle cx="816" cy="86" r="5.5" fill="#f5d36a"/><circle cx="836" cy="86" r="5.5" fill="#38e8a8"/>
+    <text x="953" y="90" class="mono su" font-size="12" text-anchor="middle">diego.ts</text>
+    <line x1="770" y1="112" x2="1136" y2="112" stroke="#26353b"/>
+    <text class="ln mono" style="animation-delay:0.50s" x="800" y="150" font-size="15" xml:space="preserve"><tspan style="fill:#5aa9ff" xml:space="preserve">const </tspan><tspan style="fill:#e7f1ee" xml:space="preserve">diego </tspan><tspan style="fill:#9db1aa" xml:space="preserve">= {</tspan></text><text class="ln mono" style="animation-delay:0.68s" x="800" y="181" font-size="15" xml:space="preserve"><tspan style="fill:#9db1aa" xml:space="preserve">  </tspan><tspan style="fill:#e7f1ee" xml:space="preserve">cargo</tspan><tspan style="fill:#9db1aa" xml:space="preserve">: </tspan><tspan style="fill:#38e8a8" xml:space="preserve">"Front-end"</tspan><tspan style="fill:#9db1aa" xml:space="preserve">,</tspan></text><text class="ln mono" style="animation-delay:0.86s" x="800" y="212" font-size="15" xml:space="preserve"><tspan style="fill:#9db1aa" xml:space="preserve">  </tspan><tspan style="fill:#e7f1ee" xml:space="preserve">stack</tspan><tspan style="fill:#9db1aa" xml:space="preserve">: [</tspan><tspan style="fill:#38e8a8" xml:space="preserve">"React"</tspan><tspan style="fill:#9db1aa" xml:space="preserve">, </tspan><tspan style="fill:#38e8a8" xml:space="preserve">"Next.js"</tspan><tspan style="fill:#9db1aa" xml:space="preserve">,</tspan></text><text class="ln mono" style="animation-delay:1.04s" x="800" y="243" font-size="15" xml:space="preserve"><tspan style="fill:#9db1aa" xml:space="preserve">    </tspan><tspan style="fill:#38e8a8" xml:space="preserve">"TypeScript"</tspan><tspan style="fill:#9db1aa" xml:space="preserve">],</tspan></text><text class="ln mono" style="animation-delay:1.22s" x="800" y="274" font-size="15" xml:space="preserve"><tspan style="fill:#9db1aa" xml:space="preserve">  </tspan><tspan style="fill:#e7f1ee" xml:space="preserve">origem</tspan><tspan style="fill:#9db1aa" xml:space="preserve">: </tspan><tspan style="fill:#38e8a8" xml:space="preserve">"Suporte N2"</tspan><tspan style="fill:#9db1aa" xml:space="preserve">,</tspan></text><text class="ln mono" style="animation-delay:1.40s" x="800" y="305" font-size="15" xml:space="preserve"><tspan style="fill:#9db1aa" xml:space="preserve">  </tspan><tspan style="fill:#e7f1ee" xml:space="preserve">abertoAOportunidades</tspan><tspan style="fill:#9db1aa" xml:space="preserve">: </tspan><tspan style="fill:#5aa9ff" xml:space="preserve">true</tspan><tspan style="fill:#9db1aa" xml:space="preserve">,</tspan></text><text class="ln mono" style="animation-delay:1.58s" x="800" y="336" font-size="15" xml:space="preserve"><tspan style="fill:#9db1aa" xml:space="preserve">};</tspan></text>
+
+    <rect x="770" y="394" width="286" height="36" rx="18" fill="#0b1317" stroke="#26353b"/>
+    <circle cx="792" cy="412" r="4" fill="#38e8a8"/>
+    <text x="808" y="417" class="mono fg" font-size="12" letter-spacing="1.4">REACT · TYPESCRIPT · NEXT.JS</text>
+    </svg>
