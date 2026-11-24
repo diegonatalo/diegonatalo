@@ -1,7 +1,7 @@
 <!--
   Imagens geradas por generator/ (pnpm generate): edite generator/content.mjs e gere de novo.
-  Imagens sem link trocam de tema com <picture>. Com link, o GitHub desmonta o <picture>,
-  então elas usam o par #gh-dark-mode-only / #gh-light-mode-only.
+  As imagens trocam de tema com <picture>. Dentro de um link o GitHub desmonta o <picture>,
+  então os botões têm uma versão só e os cards de projeto ficam sem link (as demos vêm em texto).
 -->
 <div align="center">
 
@@ -9,10 +9,10 @@
 
 <br>
 
-<a href="https://diegonatalo.dev"><img src="assets/btn-portfolio-dark.png#gh-dark-mode-only" height="44" alt="Ver portfólio"></a><a href="https://diegonatalo.dev"><img src="assets/btn-portfolio-light.png#gh-light-mode-only" height="44" alt="Ver portfólio"></a>
-<a href="https://www.linkedin.com/in/diegonatalo/"><img src="assets/btn-linkedin-dark.png#gh-dark-mode-only" height="44" alt="LinkedIn"></a><a href="https://www.linkedin.com/in/diegonatalo/"><img src="assets/btn-linkedin-light.png#gh-light-mode-only" height="44" alt="LinkedIn"></a>
-<a href="mailto:diegonatalo@gmail.com"><img src="assets/btn-email-dark.png#gh-dark-mode-only" height="44" alt="E-mail"></a><a href="mailto:diegonatalo@gmail.com"><img src="assets/btn-email-light.png#gh-light-mode-only" height="44" alt="E-mail"></a>
-<a href="https://diegonatalo.dev/diego-natalo-cv.pdf"><img src="assets/btn-curriculo-dark.png#gh-dark-mode-only" height="44" alt="Currículo"></a><a href="https://diegonatalo.dev/diego-natalo-cv.pdf"><img src="assets/btn-curriculo-light.png#gh-light-mode-only" height="44" alt="Currículo"></a>
+<a href="https://diegonatalo.dev"><img src="assets/btn-portfolio.png" height="44" alt="Ver portfólio"></a>
+<a href="https://www.linkedin.com/in/diegonatalo/"><img src="assets/btn-linkedin.png" height="44" alt="LinkedIn"></a>
+<a href="mailto:diegonatalo@gmail.com"><img src="assets/btn-email.png" height="44" alt="E-mail"></a>
+<a href="https://diegonatalo.dev/diego-natalo-cv.pdf"><img src="assets/btn-curriculo.png" height="44" alt="Currículo"></a>
 
 </div>
 
@@ -43,14 +43,17 @@ Fora do código, eu treino, leio e gosto de entender como as coisas funcionam, i
 <br>
 
 <div align="center">
-<a href="https://dn-encaixe.vercel.app"><img src="assets/p-encaixe-dark.png#gh-dark-mode-only" width="32%" alt="Encaixe: agenda para quem atende com hora marcada. Next.js, TypeScript, PostgreSQL. Ver demo."></a><a href="https://dn-encaixe.vercel.app"><img src="assets/p-encaixe-light.png#gh-light-mode-only" width="32%" alt="Encaixe: agenda para quem atende com hora marcada. Next.js, TypeScript, PostgreSQL. Ver demo."></a>
-<a href="https://dn-pede-ai.vercel.app"><img src="assets/p-pede-ai-dark.png#gh-dark-mode-only" width="32%" alt="Pede Aí: pedidos do QR code da mesa direto para a cozinha e o bar, com a conta dividida. Next.js, TypeScript, PostgreSQL. Ver demo."></a><a href="https://dn-pede-ai.vercel.app"><img src="assets/p-pede-ai-light.png#gh-light-mode-only" width="32%" alt="Pede Aí: pedidos do QR code da mesa direto para a cozinha e o bar, com a conta dividida. Next.js, TypeScript, PostgreSQL. Ver demo."></a>
-<a href="https://entendendo-algoritmos.vercel.app"><img src="assets/p-entendendo-algoritmos-dark.png#gh-dark-mode-only" width="32%" alt="Entendendo Algoritmos: os capítulos do livro em visualizações interativas. Next.js, TypeScript, Tailwind CSS. Ver demo."></a><a href="https://entendendo-algoritmos.vercel.app"><img src="assets/p-entendendo-algoritmos-light.png#gh-light-mode-only" width="32%" alt="Entendendo Algoritmos: os capítulos do livro em visualizações interativas. Next.js, TypeScript, Tailwind CSS. Ver demo."></a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/p-encaixe-dark.png"><img src="assets/p-encaixe-light.png" width="32%" alt="Encaixe: agenda para quem atende com hora marcada. Next.js, TypeScript, PostgreSQL."></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/p-pede-ai-dark.png"><img src="assets/p-pede-ai-light.png" width="32%" alt="Pede Aí: pedidos do QR code da mesa direto para a cozinha e o bar, com a conta dividida. Next.js, TypeScript, PostgreSQL."></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/p-entendendo-algoritmos-dark.png"><img src="assets/p-entendendo-algoritmos-light.png" width="32%" alt="Entendendo Algoritmos: os capítulos do livro em visualizações interativas. Next.js, TypeScript, Tailwind CSS."></picture>
 </div>
 
 <div align="center">
-  <br>
-  <a href="https://diegonatalo.dev/projetos"><b>Ver todos os 11 projetos no portfólio →</b></a>
+
+**Demos:** [Encaixe ↗](https://dn-encaixe.vercel.app) · [Pede Aí ↗](https://dn-pede-ai.vercel.app) · [Entendendo Algoritmos ↗](https://entendendo-algoritmos.vercel.app)
+
+<a href="https://diegonatalo.dev/projetos"><b>Ver todos os 11 projetos no portfólio →</b></a>
+
 </div>
 
 <br>
@@ -80,14 +83,14 @@ Fora do código, eu treino, leio e gosto de entender como as coisas funcionam, i
 
 <div align="center">
 
-<a href="mailto:diegonatalo@gmail.com"><img src="assets/contato-dark.png#gh-dark-mode-only" width="100%" alt="Tem um projeto em mente? Estou aberto a novas oportunidades e parcerias. diegonatalo@gmail.com"></a><a href="mailto:diegonatalo@gmail.com"><img src="assets/contato-light.png#gh-light-mode-only" width="100%" alt="Tem um projeto em mente? Estou aberto a novas oportunidades e parcerias. diegonatalo@gmail.com"></a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/contato-dark.png"><img src="assets/contato-light.png" width="100%" alt="Tem um projeto em mente? Estou aberto a novas oportunidades e parcerias. diegonatalo@gmail.com"></picture>
 
 <br>
 
-<a href="https://diegonatalo.dev"><img src="assets/btn-portfolio-dark.png#gh-dark-mode-only" height="44" alt="Ver portfólio"></a><a href="https://diegonatalo.dev"><img src="assets/btn-portfolio-light.png#gh-light-mode-only" height="44" alt="Ver portfólio"></a>
-<a href="https://www.linkedin.com/in/diegonatalo/"><img src="assets/btn-linkedin-dark.png#gh-dark-mode-only" height="44" alt="LinkedIn"></a><a href="https://www.linkedin.com/in/diegonatalo/"><img src="assets/btn-linkedin-light.png#gh-light-mode-only" height="44" alt="LinkedIn"></a>
-<a href="mailto:diegonatalo@gmail.com"><img src="assets/btn-email-dark.png#gh-dark-mode-only" height="44" alt="E-mail"></a><a href="mailto:diegonatalo@gmail.com"><img src="assets/btn-email-light.png#gh-light-mode-only" height="44" alt="E-mail"></a>
-<a href="https://diegonatalo.dev/diego-natalo-cv.pdf"><img src="assets/btn-curriculo-dark.png#gh-dark-mode-only" height="44" alt="Currículo"></a><a href="https://diegonatalo.dev/diego-natalo-cv.pdf"><img src="assets/btn-curriculo-light.png#gh-light-mode-only" height="44" alt="Currículo"></a>
+<a href="https://diegonatalo.dev"><img src="assets/btn-portfolio.png" height="44" alt="Ver portfólio"></a>
+<a href="https://www.linkedin.com/in/diegonatalo/"><img src="assets/btn-linkedin.png" height="44" alt="LinkedIn"></a>
+<a href="mailto:diegonatalo@gmail.com"><img src="assets/btn-email.png" height="44" alt="E-mail"></a>
+<a href="https://diegonatalo.dev/diego-natalo-cv.pdf"><img src="assets/btn-curriculo.png" height="44" alt="Currículo"></a>
 
 <br><br>
 

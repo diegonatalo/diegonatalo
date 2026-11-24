@@ -141,7 +141,7 @@ const blocks = {
   async project(t, project) {
     const image = await dataUri("images", "projects", project.image);
     return `
-    <div style="width:282px;height:384px;display:flex;flex-direction:column;overflow:hidden;border-radius:18px;border:1px solid ${t.border};background:${t.card}">
+    <div style="width:282px;height:362px;display:flex;flex-direction:column;overflow:hidden;border-radius:18px;border:1px solid ${t.border};background:${t.card}">
       <div style="padding:10px 10px 0;background:${t.bg}">
         <img src="${image}" style="width:100%;aspect-ratio:16/10;object-fit:cover;object-position:top;display:block;border-radius:10px 10px 0 0;border:1px solid ${t.border};border-bottom:0" alt="">
       </div>
@@ -149,7 +149,6 @@ const blocks = {
         <h3 class="display" style="font-size:19px">${esc(project.title)}</h3>
         <p style="font-size:13px;line-height:1.55;color:${t.muted};min-height:60px">${esc(project.summary)}</p>
         <div style="display:flex;flex-wrap:wrap;gap:5px">${project.stack.map((s) => `<span style="padding:2px 8px;border-radius:999px;border:1px solid ${t.border};font-family:'Geist Mono',monospace;font-size:11px;color:${t.muted}">${esc(s)}</span>`).join("")}</div>
-        <p style="margin-top:auto;font-size:13px;font-weight:600;color:${t.accent}">Ver demo ↗</p>
       </div>
     </div>`;
   },
@@ -217,7 +216,7 @@ const blocks = {
 // Lista de imagens: nome do arquivo → bloco.
 const jobs = [
   ["banner", (t) => blocks.banner(t)],
-  ...content.buttons.map((b) => [`btn-${b.id}`, (t) => blocks.button(t, b)]),
+  ...content.buttons.map((b) => [`btn-${b.id}`, (t) => blocks.button(t, b), "single"]),
   ...content.sections.map((s) => [`h-${s.id}`, (t) => blocks.header(t, s)]),
   ["stack", (t) => blocks.stack(t)],
   ...content.projects.map((p) => [`p-${p.id}`, (t) => blocks.project(t, p)]),
@@ -230,15 +229,18 @@ await mkdir(outDir, { recursive: true });
 const browser = await chromium.launch({ channel: process.env.BROWSER_CHANNEL ?? "msedge" });
 const page = await browser.newPage({ deviceScaleFactor: 2, viewport: { width: WIDTH + 40, height: 800 } });
 
-for (const [name, render] of jobs) {
-  for (const [themeName, t] of Object.entries(themes)) {
+// Imagens com link não trocam de tema no GitHub (ele desmonta o <picture> dentro de
+// um link), então os botões saem numa versão só, a escura, que funciona nos dois fundos.
+for (const [name, render, mode] of jobs) {
+  const variants = mode === "single" ? [["", themes.dark]] : Object.entries(themes).map(([k, t]) => [`-${k}`, t]);
+  for (const [suffix, t] of variants) {
     const html = `<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><style>${css(t)}</style></head>
       <body><div id="shot">${await render(t)}</div></body></html>`;
     await page.setContent(html, { waitUntil: "load" });
     await page.evaluate(() => document.fonts.ready);
-    const file = path.join(outDir, `${name}-${themeName}.png`);
+    const file = path.join(outDir, `${name}${suffix}.png`);
     await page.locator("#shot").screenshot({ path: file, omitBackground: true });
-    console.log(`✓ assets/${name}-${themeName}.png`);
+    console.log(`✓ assets/${name}${suffix}.png`);
   }
 }
 
