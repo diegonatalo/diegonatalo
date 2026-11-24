@@ -1,93 +1,96 @@
+<!--
+  Imagens geradas por generator/ (pnpm generate): edite generator/content.mjs e gere de novo.
+  Imagens sem link trocam de tema com <picture>. Com link, o GitHub desmonta o <picture>,
+  então elas usam o par #gh-dark-mode-only / #gh-light-mode-only.
+-->
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Diego Natalo, Desenvolvedor Front-end. Construo interfaces modernas, acessíveis e performáticas com foco em experiência do usuário." />
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img src="assets/banner-light.png" width="100%" alt="Diego Natalo, Engenheiro de Software. Construo produtos web de ponta a ponta, do front ao deploy, usando IA no fluxo de trabalho. 11 projetos, 28 tecnologias, 6 certificados."></picture>
 
 <br>
 
-<a href="https://diegonatalo.dev"><img src="assets/btn-portfolio.svg" height="46" alt="Ver portfólio" /></a>
-<a href="https://www.linkedin.com/in/diegonatalo/"><img src="assets/btn-linkedin.svg" height="46" alt="LinkedIn" /></a>
-<a href="mailto:diegonatalo@gmail.com"><img src="assets/btn-email.svg" height="46" alt="E-mail" /></a>
+<a href="https://diegonatalo.dev"><img src="assets/btn-portfolio-dark.png#gh-dark-mode-only" height="44" alt="Ver portfólio"></a><a href="https://diegonatalo.dev"><img src="assets/btn-portfolio-light.png#gh-light-mode-only" height="44" alt="Ver portfólio"></a>
+<a href="https://www.linkedin.com/in/diegonatalo/"><img src="assets/btn-linkedin-dark.png#gh-dark-mode-only" height="44" alt="LinkedIn"></a><a href="https://www.linkedin.com/in/diegonatalo/"><img src="assets/btn-linkedin-light.png#gh-light-mode-only" height="44" alt="LinkedIn"></a>
+<a href="mailto:diegonatalo@gmail.com"><img src="assets/btn-email-dark.png#gh-dark-mode-only" height="44" alt="E-mail"></a><a href="mailto:diegonatalo@gmail.com"><img src="assets/btn-email-light.png#gh-light-mode-only" height="44" alt="E-mail"></a>
+<a href="https://diegonatalo.dev/diego-natalo-cv.pdf"><img src="assets/btn-curriculo-dark.png#gh-dark-mode-only" height="44" alt="Currículo"></a><a href="https://diegonatalo.dev/diego-natalo-cv.pdf"><img src="assets/btn-curriculo-light.png#gh-light-mode-only" height="44" alt="Currículo"></a>
 
 </div>
 
 <br>
 
-<div align="center"><img src="assets/h-sobre.svg" width="100%" alt="00 · Sobre: quem sou eu" /></div>
+<div align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-sobre-dark.png"><img src="assets/h-sobre-light.png" width="100%" alt="01 · Sobre: quem sou eu"></picture></div>
 
 <br>
 
-Vim do suporte técnico de um provedor de internet, onde cheguei ao N2. Foi lá que aprendi onde o usuário trava e o que uma ferramenta precisa ter para a equipe realmente usar.
+Vim do suporte técnico de um provedor de internet, onde cheguei ao N2. Lá aprendi onde o usuário trava e o que uma ferramenta precisa ter para a equipe usar de verdade. Foi assim que nasceu a Triagem Web, meu primeiro sistema usado no dia a dia.
 
-Hoje levo essa bagagem para o front-end: construo interfaces modernas, acessíveis e performáticas, com foco em experiência do usuário. Meu objetivo é atuar profissionalmente como desenvolvedor.
+Hoje construo produtos web de ponta a ponta, do front ao deploy, com **Next.js**, **TypeScript** e **Postgres**, e uso IA no fluxo de trabalho. Testes, CI e acessibilidade fazem parte de todo projeto, não ficam para depois.
 
 Fora do código, eu treino, leio e gosto de entender como as coisas funcionam, inclusive eu mesmo. Nada é perfeito, mas pizza chega bem perto. 🍕
 
 <br>
 
-
-<div align="center"><img src="assets/h-stack.svg" width="100%" alt="01 · Stack: skills e tecnologias" /></div>
-
-<br>
-
-<div align="center"><img src="assets/stack.svg" width="100%" alt="Front-end: React, Next.js, TypeScript, JavaScript, HTML5, CSS3. Estilização e UI: Tailwind CSS, Sass, Framer Motion, Figma. Ferramentas: Git, Vite, ESLint, Prettier. Back-end e infra: Node.js, PostgreSQL, GraphQL, Bun, Vercel, Docker." /></div>
+<div align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-stack-dark.png"><img src="assets/h-stack-light.png" width="100%" alt="02 · Stack: skills e tecnologias"></picture></div>
 
 <br>
 
-<div align="center"><img src="assets/h-projetos.svg" width="100%" alt="02 · Portfólio: projetos em destaque" /></div>
+<div align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.png"><img src="assets/stack-light.png" width="100%" alt="Front-end: React, Next.js, TypeScript, JavaScript, HTML5, CSS3. UI e interação: Tailwind CSS, Radix UI, dnd-kit, D3.js, Recharts. Formulários e estado: React Hook Form, Zod, Zustand. Testes e qualidade: Vitest, Testing Library, Playwright, ESLint, GitHub Actions. Back-end e infra: Node.js, PostgreSQL, Neon, Drizzle ORM, Better Auth, Vercel. IA e fluxo: Claude Code, Git, pnpm."></picture></div>
+
+<br>
+
+<div align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-projetos-dark.png"><img src="assets/h-projetos-light.png" width="100%" alt="03 · Portfólio: projetos em destaque"></picture></div>
 
 <br>
 
 <div align="center">
-<a href="https://triagem-web.vercel.app"><img src="assets/p-triagem.svg" width="49%" alt="Triagem Web: plataforma interna de atendimento para provedor de telecom. Next.js, TypeScript, Tailwind. Ver demonstração." /></a>
-<a href="https://github.com/diegonatalo/entendendo-algoritmos"><img src="assets/p-algoritmos.svg" width="49%" alt="Entendendo Algoritmos: visualizações interativas do livro. Next.js, TypeScript, Tailwind. Ver repositório." /></a>
-</div>
-
-<div align="center">
-<br>
-<a href="https://fiinance1.vercel.app"><img src="assets/p-fiinance.svg" width="49%" alt="FIInance: gestão de fundos imobiliários com gráficos. Ver demonstração." /></a>
-<a href="https://dn-fitlog.vercel.app"><img src="assets/p-fitlog.svg" width="49%" alt="FitLog: registro de treinos com histórico de evolução. Ver demonstração." /></a>
+<a href="https://dn-encaixe.vercel.app"><img src="assets/p-encaixe-dark.png#gh-dark-mode-only" width="32%" alt="Encaixe: agenda para quem atende com hora marcada. Next.js, TypeScript, PostgreSQL. Ver demo."></a><a href="https://dn-encaixe.vercel.app"><img src="assets/p-encaixe-light.png#gh-light-mode-only" width="32%" alt="Encaixe: agenda para quem atende com hora marcada. Next.js, TypeScript, PostgreSQL. Ver demo."></a>
+<a href="https://dn-pede-ai.vercel.app"><img src="assets/p-pede-ai-dark.png#gh-dark-mode-only" width="32%" alt="Pede Aí: pedidos do QR code da mesa direto para a cozinha e o bar, com a conta dividida. Next.js, TypeScript, PostgreSQL. Ver demo."></a><a href="https://dn-pede-ai.vercel.app"><img src="assets/p-pede-ai-light.png#gh-light-mode-only" width="32%" alt="Pede Aí: pedidos do QR code da mesa direto para a cozinha e o bar, com a conta dividida. Next.js, TypeScript, PostgreSQL. Ver demo."></a>
+<a href="https://entendendo-algoritmos.vercel.app"><img src="assets/p-entendendo-algoritmos-dark.png#gh-dark-mode-only" width="32%" alt="Entendendo Algoritmos: os capítulos do livro em visualizações interativas. Next.js, TypeScript, Tailwind CSS. Ver demo."></a><a href="https://entendendo-algoritmos.vercel.app"><img src="assets/p-entendendo-algoritmos-light.png#gh-light-mode-only" width="32%" alt="Entendendo Algoritmos: os capítulos do livro em visualizações interativas. Next.js, TypeScript, Tailwind CSS. Ver demo."></a>
 </div>
 
 <div align="center">
   <br>
-  <a href="https://diegonatalo.dev"><b>Ver todos os projetos no portfólio →</b></a>
+  <a href="https://diegonatalo.dev/projetos"><b>Ver todos os 11 projetos no portfólio →</b></a>
 </div>
 
 <br>
 
-<div align="center"><img src="assets/h-trajetoria.svg" width="100%" alt="03 · Trajetória: experiência e formação" /></div>
+<div align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-trajetoria-dark.png"><img src="assets/h-trajetoria-light.png" width="100%" alt="04 · Trajetória: experiência e formação"></picture></div>
 
 <br>
 
-<div align="center"><img src="assets/trajetoria.svg" width="100%" alt="Experiência: Instrutor Convidado na WS Academy (2025–2026); Assistente de Suporte Técnico N2 na WSNET (2025–2026); Assistente de Suporte Técnico N1 na WSNET (2024–2025). Formação: Tecnólogo em ADS no IFSP (2019–2022); Técnico em Informática para Internet na Etec (2016–2018)." /></div>
+<div align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/trajetoria-dark.png"><img src="assets/trajetoria-light.png" width="100%" alt="Experiência: Assistente de Suporte Técnico N2 na WSNET (2025–2026), N1 na WSNET (2024–2025) e Instrutor Convidado na WS Academy (2025–2026). Formação: Tecnólogo em ADS no IFSP (2019–2022) e Técnico em Informática para Internet na Etec (2016–2018). Certificados: Generative AI Software Engineering Specialization (Vanderbilt, cursando), Metodologias Ágeis (Rocketseat), Meta React Native Specialization, Meta Front-End Developer Professional Certificate, Google Fundamentos do design de UX, Ignite React.js (Rocketseat) e Design Thinking (FIAP)."></picture></div>
 
 <br>
 
-<div align="center"><img src="assets/h-github.svg" width="100%" alt="04 · GitHub: atividade" /></div>
+<div align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-github-dark.png"><img src="assets/h-github-light.png" width="100%" alt="05 · GitHub: atividade"></picture></div>
 
 <br>
 
 <div align="center">
-<img height="165" alt="Estatísticas do GitHub de Diego Natalo" src="https://github-readme-stats.vercel.app/api?username=diegonatalo&show_icons=true&hide_border=false&include_all_commits=true&bg_color=060b0e&title_color=38e8a8&text_color=e7f1ee&icon_color=5aa9ff&border_color=26353b&locale=pt-br" />
-<img height="165" alt="Sequência de contribuições no GitHub" src="https://streak-stats.demolab.com?user=diegonatalo&locale=pt_BR&background=060B0E&border=26353B&stroke=26353B&ring=38E8A8&fire=5AA9FF&currStreakNum=E7F1EE&currStreakLabel=38E8A8&sideNums=E7F1EE&sideLabels=9DB1AA&dates=9DB1AA" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=diegonatalo&show_icons=true&include_all_commits=true&locale=pt-br&bg_color=060b0e&title_color=38e8a8&text_color=e7f1ee&icon_color=5aa9ff&border_color=26353b"><img height="165" alt="Estatísticas do GitHub de Diego Natalo" src="https://github-readme-stats.vercel.app/api?username=diegonatalo&show_icons=true&include_all_commits=true&locale=pt-br&bg_color=f4f8f6&title_color=0a7a57&text_color=0a1512&icon_color=2563eb&border_color=d8e3de"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=diegonatalo&locale=pt_BR&background=060B0E&border=26353B&stroke=26353B&ring=38E8A8&fire=5AA9FF&currStreakNum=E7F1EE&currStreakLabel=38E8A8&sideNums=E7F1EE&sideLabels=9DB1AA&dates=9DB1AA"><img height="165" alt="Sequência de contribuições no GitHub" src="https://streak-stats.demolab.com?user=diegonatalo&locale=pt_BR&background=F4F8F6&border=D8E3DE&stroke=D8E3DE&ring=0A7A57&fire=2563EB&currStreakNum=0A1512&currStreakLabel=0A7A57&sideNums=0A1512&sideLabels=3F524C&dates=5A6C66"></picture>
 </div>
 
 <br>
 
-<div align="center"><img src="assets/h-contato.svg" width="100%" alt="05 · Contato: vamos conversar?" /></div>
+<div align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/h-contato-dark.png"><img src="assets/h-contato-light.png" width="100%" alt="06 · Contato: vamos conversar"></picture></div>
 
 <br>
 
 <div align="center">
 
-Tem um projeto em mente? Estou aberto a novas oportunidades e parcerias.
+<a href="mailto:diegonatalo@gmail.com"><img src="assets/contato-dark.png#gh-dark-mode-only" width="100%" alt="Tem um projeto em mente? Estou aberto a novas oportunidades e parcerias. diegonatalo@gmail.com"></a><a href="mailto:diegonatalo@gmail.com"><img src="assets/contato-light.png#gh-light-mode-only" width="100%" alt="Tem um projeto em mente? Estou aberto a novas oportunidades e parcerias. diegonatalo@gmail.com"></a>
 
 <br>
 
-<a href="https://diegonatalo.dev"><img src="assets/btn-portfolio.svg" height="46" alt="Ver portfólio" /></a>
-<a href="https://www.linkedin.com/in/diegonatalo/"><img src="assets/btn-linkedin.svg" height="46" alt="LinkedIn" /></a>
-<a href="mailto:diegonatalo@gmail.com"><img src="assets/btn-email.svg" height="46" alt="E-mail" /></a>
+<a href="https://diegonatalo.dev"><img src="assets/btn-portfolio-dark.png#gh-dark-mode-only" height="44" alt="Ver portfólio"></a><a href="https://diegonatalo.dev"><img src="assets/btn-portfolio-light.png#gh-light-mode-only" height="44" alt="Ver portfólio"></a>
+<a href="https://www.linkedin.com/in/diegonatalo/"><img src="assets/btn-linkedin-dark.png#gh-dark-mode-only" height="44" alt="LinkedIn"></a><a href="https://www.linkedin.com/in/diegonatalo/"><img src="assets/btn-linkedin-light.png#gh-light-mode-only" height="44" alt="LinkedIn"></a>
+<a href="mailto:diegonatalo@gmail.com"><img src="assets/btn-email-dark.png#gh-dark-mode-only" height="44" alt="E-mail"></a><a href="mailto:diegonatalo@gmail.com"><img src="assets/btn-email-light.png#gh-light-mode-only" height="44" alt="E-mail"></a>
+<a href="https://diegonatalo.dev/diego-natalo-cv.pdf"><img src="assets/btn-curriculo-dark.png#gh-dark-mode-only" height="44" alt="Currículo"></a><a href="https://diegonatalo.dev/diego-natalo-cv.pdf"><img src="assets/btn-curriculo-light.png#gh-light-mode-only" height="44" alt="Currículo"></a>
 
-<img src="assets/footer.svg" width="100%" alt="© 2026 Diego Natalo. Feito para o garoto que um dia sonhou com isso." />
+<br><br>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.png"><img src="assets/footer-light.png" width="100%" alt="© 2026 Diego Natalo. Feito para o garoto que um dia sonhou com isso."></picture>
 
 </div>

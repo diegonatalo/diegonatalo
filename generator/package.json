@@ -1,0 +1,12 @@
+{
+  "name": "readme-generator",
+  "private": true,
+  "type": "module",
+  "description": "Gera as imagens do README do perfil (tema claro e escuro) na identidade do portfólio.",
+  "scripts": {
+    "generate": "node generate.mjs"
+  },
+  "devDependencies": {
+    "playwright-core": "^1.65.1"
+  }
+}
